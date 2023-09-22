@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1B244A;
+    max-width: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 70px 10px 70px;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+h2 {
+    width: 125px;
+    height: 100px;
+    background: black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 70px;
+    padding: 20px 10px 0 10px;
+}
+
+.num {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 7px;
+    background: none;
+    border: 1px solid white;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Cursed Timer ULiL', sans-serif;                            
+}
